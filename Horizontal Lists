@@ -1,0 +1,39 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<style> 
+ul{ 
+list-style-type: none; 
+margin: 0; 
+padding: 0; 
+overflow: hidden; 
+background-color: red; 
+lit 
+float: left; 
+li a { 
+display: block; 
+color: white; 
+text-align: center; 
+padding: 16px; 
+text-decoration: none; 
+li a:hover { 
+background-color: #111111; 
+</style> 
+</head> 
+<body> 
+<ul> 
+<lixa 
+href-"#home">Home</a>< 
+/li> 
+<li>xa 
+href-"#news"'>News</a></ 
+li> 
+<li>xa 
+href-"#contact">Contact</ 
+a></li> 
+<lixa 
+href="#about">About</a> 
+</li> 
+</ub 
+</body> 
+</html>
